@@ -1,0 +1,25 @@
+1- Entrada do programa
+---------------------------TELA INICIAL----------------------------------
+Pergunta inicial:
+Você é paciente ou Médico?
+    Se for paciente irá pedir seus dados para fazer o cadastro
+    Se for Médico irá pedir seu cadastro e logo depois carregar a sua agenda do dia e dos pacientes.
+---------------------------TELA HOME PACIENTE------------------------------
+Fazer agendamento das consultas:
+    Perguntar qual médico você irá querer
+    LISTAS DE MÉDICOS- DENTINTAS, PEDIATRA, CLINICO GERAL.
+    RELATAR SINTOMAS:
+    PERGUNTAS SOBRE SEUS SINTOMAS:
+        FEBRE, TOSSE, DOR DE CABEÇA, MOLESA, ENJOO.
+
+Verificar consultas já agendadas.
+Após Fazer seu agendamento, irá receber uma senha que irá apresentar ao médico no inicio do atendimento
+Teste da covid
+
+-----------------------TELA DO MÉDICO------------------------
+APARECER A SUA AGENDA COM OS NOMES DOS PACIENTES.
+    AO SELECIONAR O PACIENTE QUE IRÁ ATENDER
+    DEVE-SE PUXAR TODAS AS SUAS INFORMAÇÕES.
+
+IRÁ APARECER OS SINTOMAS QUE O PACIENTE INFORMOU PARA QUE ELE POSSA FAZER UMA ANÁLISE MAIS PROFUNDA
+
